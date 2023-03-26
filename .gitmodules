@@ -1,0 +1,9 @@
+[submodule "hugo-theme-stack"]
+	path = hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack
+[submodule "themes/stack"]
+	path = themes/stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack
+[submodule "themes/github-style"]
+	path = themes/github-style
+	url = git@github.com:MeiK2333/github-style.git

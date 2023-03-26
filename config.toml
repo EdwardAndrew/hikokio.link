@@ -1,0 +1,23 @@
+baseURL = 'https://hikokio.link'
+languageCode = 'en-us'
+title = 'Hikokio'
+theme = 'github-style'
+
+#git-style theme params
+[params]
+author = "Hikokio"
+description = "In solitude, where we are least alone."
+github = "hikokio"
+#facebook = "MeiK2333"
+twitter = "MeiK2333"
+#linkedin = "MeiK2333"
+#instagram = "MeiK2333"
+#tumblr = "MeiK2333"
+email = "hikokioyasha@gmail.com"
+url = "https://hikokio.link"
+keywords = "blog, google analytics"
+rss = true
+lastmod = true
+userStatusEmoji = "🚀"
+favicon = "/images/github.png"
+location = "China"
